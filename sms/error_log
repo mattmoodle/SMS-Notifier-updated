@@ -1,0 +1,612 @@
+[04-Jul-2014 01:15:22 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 144
+[04-Jul-2014 01:15:22 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 01:15:22 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 01:15:22 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 01:15:22 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 01:15:56 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 144
+[04-Jul-2014 01:15:56 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 01:16:16 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 144
+[04-Jul-2014 01:16:16 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 01:23:27 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 144
+[04-Jul-2014 02:10:33 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:10:33 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:10:33 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:10:33 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:10:45 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:14:19 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:14:19 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:14:19 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:14:19 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:14:33 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:14:33 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:14:33 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:14:33 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:15:27 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:15:27 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:15:27 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:15:27 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:15:27 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 102
+[04-Jul-2014 02:16:28 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:16:28 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:16:29 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:16:29 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:16:29 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 121
+[04-Jul-2014 02:18:27 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:18:27 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:18:27 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:18:27 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:18:27 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:18:27 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:18:27 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:19:53 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:19:53 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:19:53 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:19:53 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:19:53 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:19:53 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:19:53 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:20:29 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:20:29 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:20:29 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:20:29 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:20:29 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:20:29 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:20:29 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:21:34 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:21:34 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:21:34 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:21:34 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:21:34 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:21:34 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:21:34 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:21:57 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:21:57 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:21:57 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:21:57 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:21:57 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:21:57 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:21:57 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:24:58 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:24:58 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:24:58 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:24:58 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:24:58 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:24:58 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:24:58 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:24:58 UTC] PHP Notice:  Undefined index: msg in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 72
+[04-Jul-2014 02:27:30 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:27:30 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:27:30 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:27:30 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:27:30 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:27:30 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:27:30 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:27:30 UTC] PHP Notice:  Undefined index: msg in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 72
+[04-Jul-2014 02:28:36 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:28:36 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:28:36 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:28:36 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:28:36 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:28:36 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:28:36 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:28:36 UTC] PHP Notice:  Undefined index: msg in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 72
+[04-Jul-2014 02:30:46 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:30:46 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 02:30:46 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:30:46 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 101
+[04-Jul-2014 02:30:46 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:30:46 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:30:46 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 126
+[04-Jul-2014 02:30:46 UTC] PHP Notice:  Undefined index: msg in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 72
+[04-Jul-2014 02:31:12 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:31:12 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:31:12 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 102
+[04-Jul-2014 02:31:12 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 102
+[04-Jul-2014 02:31:12 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:31:12 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:31:12 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:31:12 UTC] PHP Notice:  Undefined index: msg in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 72
+[04-Jul-2014 02:31:24 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:31:24 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:31:24 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 102
+[04-Jul-2014 02:31:24 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 102
+[04-Jul-2014 02:31:24 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:31:24 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:31:24 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:31:36 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:31:36 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/user_list.php on line 35
+[04-Jul-2014 02:32:07 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:32:07 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/user_list.php on line 35
+[04-Jul-2014 02:32:11 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:32:11 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/user_list.php on line 35
+[04-Jul-2014 02:32:37 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:32:37 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:32:37 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 102
+[04-Jul-2014 02:32:37 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 102
+[04-Jul-2014 02:32:37 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:32:37 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:32:37 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 02:32:46 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:32:53 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:32:57 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 02:34:25 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:34:25 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 96
+[04-Jul-2014 02:34:25 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 103
+[04-Jul-2014 02:34:25 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 103
+[04-Jul-2014 02:34:25 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 128
+[04-Jul-2014 02:34:25 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 128
+[04-Jul-2014 02:34:25 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 128
+[04-Jul-2014 02:34:35 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 96
+[04-Jul-2014 02:34:39 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 96
+[04-Jul-2014 02:34:43 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 96
+[04-Jul-2014 02:37:12 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:37:12 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 96
+[04-Jul-2014 02:37:12 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 103
+[04-Jul-2014 02:37:12 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 103
+[04-Jul-2014 02:37:12 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 02:37:12 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 02:37:12 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 02:40:17 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:40:17 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 88
+[04-Jul-2014 02:45:07 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:45:07 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 96
+[04-Jul-2014 02:45:07 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 103
+[04-Jul-2014 02:45:07 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 103
+[04-Jul-2014 02:45:07 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 02:45:07 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 02:45:07 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 02:46:05 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:46:05 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 97
+[04-Jul-2014 02:46:05 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 104
+[04-Jul-2014 02:46:05 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 104
+[04-Jul-2014 02:46:05 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 02:46:05 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 02:46:05 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 02:46:25 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:46:25 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 97
+[04-Jul-2014 02:46:25 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 104
+[04-Jul-2014 02:46:25 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 104
+[04-Jul-2014 02:46:25 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 02:46:25 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 02:46:25 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 02:47:31 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:47:31 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 79
+[04-Jul-2014 02:48:22 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:48:22 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 79
+[04-Jul-2014 02:48:30 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:48:30 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 02:48:30 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 02:48:30 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 02:48:30 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:48:30 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:48:30 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:49:04 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:49:04 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 02:49:04 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 02:49:04 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 02:49:04 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:49:04 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:49:04 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:49:40 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:49:40 UTC] PHP Notice:  Undefined variable: c_id in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 78
+[04-Jul-2014 02:49:40 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 02:49:40 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 02:49:40 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 02:49:40 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 135
+[04-Jul-2014 02:49:40 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 135
+[04-Jul-2014 02:49:40 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 135
+[04-Jul-2014 02:49:48 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:49:48 UTC] PHP Notice:  Undefined variable: c_id in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 78
+[04-Jul-2014 02:49:48 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 02:49:49 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 02:49:49 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 02:49:49 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 135
+[04-Jul-2014 02:49:49 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 135
+[04-Jul-2014 02:49:49 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 135
+[04-Jul-2014 02:50:19 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:50:19 UTC] PHP Notice:  Undefined variable: l_id in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 82
+[04-Jul-2014 02:50:19 UTC] Default exception handler: Error reading from database Debug: Table 'ssaedu_moodletest.mdl_competency_level' doesn't exist
+SELECT id,level_name FROM mdl_competency_level where id = ?
+[array (
+  0 => NULL,
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 996 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1352 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 82 of /blocks/sms/sms_form.php: call to moodle_database->get_records_sql_menu()
+* line 191 of /lib/formslib.php: call to sms_send->definition()
+* line 65 of /blocks/sms/view.php: call to moodleform->moodleform()
+
+[04-Jul-2014 02:51:06 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:51:06 UTC] PHP Notice:  Undefined variable: l_id in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 82
+[04-Jul-2014 02:51:06 UTC] Default exception handler: Error reading from database Debug: Table 'ssaedu_moodletest.mdl_competency_level' doesn't exist
+SELECT id,level_name FROM mdl_competency_level where id = ?
+[array (
+  0 => NULL,
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 996 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1352 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 82 of /blocks/sms/sms_form.php: call to moodle_database->get_records_sql_menu()
+* line 191 of /lib/formslib.php: call to sms_send->definition()
+* line 65 of /blocks/sms/view.php: call to moodleform->moodleform()
+
+[04-Jul-2014 02:51:11 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:51:11 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 02:51:11 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 02:51:11 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 02:51:11 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:51:11 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:51:11 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 02:52:12 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:52:12 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 75
+[04-Jul-2014 02:52:31 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:52:31 UTC] Default exception handler: Error reading from database Debug: Table 'ssaedu_moodletest.mdl_competency_level' doesn't exist
+SELECT id,level_name FROM mdl_competency_level where id = ?
+[array (
+  0 => 2,
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 996 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1352 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 83 of /blocks/sms/sms_form.php: call to moodle_database->get_records_sql_menu()
+* line 191 of /lib/formslib.php: call to sms_send->definition()
+* line 65 of /blocks/sms/view.php: call to moodleform->moodleform()
+
+[04-Jul-2014 02:53:11 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:53:11 UTC] Default exception handler: Error reading from database Debug: Table 'ssaedu_moodletest.mdl_competency_level' doesn't exist
+SELECT id,level_name FROM mdl_competency_level where id = ?
+[array (
+  0 => 2,
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 996 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1352 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 83 of /blocks/sms/sms_form.php: call to moodle_database->get_records_sql_menu()
+* line 191 of /lib/formslib.php: call to sms_send->definition()
+* line 65 of /blocks/sms/view.php: call to moodleform->moodleform()
+
+[04-Jul-2014 02:53:34 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:53:34 UTC] Default exception handler: Error reading from database Debug: Table 'ssaedu_moodletest.mdl_competency_level' doesn't exist
+SELECT id,level_name FROM mdl_competency_level where id = ?
+[array (
+  0 => 2,
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 996 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1352 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 83 of /blocks/sms/sms_form.php: call to moodle_database->get_records_sql_menu()
+* line 191 of /lib/formslib.php: call to sms_send->definition()
+* line 65 of /blocks/sms/view.php: call to moodleform->moodleform()
+
+[04-Jul-2014 02:53:47 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:53:47 UTC] Default exception handler: Error reading from database Debug: Table 'ssaedu_moodletest.mdl_competency_level' doesn't exist
+SELECT id,level_name FROM mdl_competency_level where id = ?
+[array (
+  0 => 2,
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 996 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1352 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 83 of /blocks/sms/sms_form.php: call to moodle_database->get_records_sql_menu()
+* line 191 of /lib/formslib.php: call to sms_send->definition()
+* line 65 of /blocks/sms/view.php: call to moodleform->moodleform()
+
+[04-Jul-2014 02:54:06 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 02:54:06 UTC] PHP Notice:  Undefined variable: l_id in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 83
+[04-Jul-2014 02:54:06 UTC] Default exception handler: Error reading from database Debug: Table 'ssaedu_moodletest.mdl_competency_level' doesn't exist
+SELECT id,level_name FROM mdl_competency_level where id = ?
+[array (
+  0 => NULL,
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 996 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1352 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 83 of /blocks/sms/sms_form.php: call to moodle_database->get_records_sql_menu()
+* line 191 of /lib/formslib.php: call to sms_send->definition()
+* line 65 of /blocks/sms/view.php: call to moodleform->moodleform()
+
+[04-Jul-2014 03:00:02 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:00:02 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:00:02 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 03:00:02 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 03:00:02 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:00:02 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:00:02 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:00:38 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:00:38 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:00:38 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 03:00:38 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 105
+[04-Jul-2014 03:00:38 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:00:38 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:00:38 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:02:12 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:02:12 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:02:12 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:02:12 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:02:12 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:03:11 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:03:11 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:03:11 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:03:11 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:03:11 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:03:36 UTC] PHP Fatal error:  Call to undefined function require_login() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 24
+[04-Jul-2014 03:03:41 UTC] PHP Fatal error:  Call to undefined function require_login() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 24
+[04-Jul-2014 03:04:17 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:04:17 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:04:17 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:04:17 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:04:17 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:05:09 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_context(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 40 and defined in /home/ssaedu/public_html/moodleTest/moodle/lib/pagelib.php on line 913
+[04-Jul-2014 03:05:09 UTC] PHP Notice:  Undefined variable: context in /home/ssaedu/public_html/moodleTest/moodle/lib/pagelib.php on line 914
+[04-Jul-2014 03:05:09 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:05:09 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:05:09 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:05:09 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:05:09 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:05:48 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:05:48 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:05:48 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:05:48 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:05:48 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:08:30 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:08:30 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:08:30 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:08:30 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:08:30 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 03:09:31 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:09:31 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:09:31 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 129
+[04-Jul-2014 03:14:15 UTC] PHP Parse error:  syntax error, unexpected ']', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 141
+[04-Jul-2014 03:14:30 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:14:30 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:14:30 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 131
+[04-Jul-2014 03:24:09 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:24:09 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 98
+[04-Jul-2014 03:24:09 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 131
+[04-Jul-2014 03:24:59 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:24:59 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 03:24:59 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 03:24:59 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 03:25:08 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:25:08 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 03:25:08 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 03:25:08 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 03:26:07 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:26:07 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 03:26:07 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 03:26:07 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 03:26:16 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 03:26:33 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 03:26:39 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 03:26:39 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 92
+[04-Jul-2014 03:26:39 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 03:26:39 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 03:26:39 UTC] PHP Notice:  Undefined index: user in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 73
+[04-Jul-2014 03:26:39 UTC] PHP Notice:  Undefined variable: N in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 115
+[04-Jul-2014 04:50:13 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 155
+[04-Jul-2014 04:50:13 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 04:50:13 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:50:13 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 04:50:13 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 04:50:13 UTC] PHP Notice:  Undefined variable: r_id in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 124
+[04-Jul-2014 04:50:13 UTC] Default exception handler: Error reading from database Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0, 1' at line 8
+SELECT usr.firstname, usr.id, usr.lastname, usr.email,usr.phone2,c.fullname
+            FROM mdl_course c
+            INNER JOIN mdl_context cx ON c.id = cx.instanceid
+            AND cx.contextlevel = '50' and c.id=1
+            INNER JOIN mdl_role_assignments ra ON cx.id = ra.contextid
+            INNER JOIN mdl_role r ON ra.roleid = r.id
+            INNER JOIN mdl_user usr ON ra.userid = usr.id
+            WHERE r.id =  LIMIT 0, 1
+[array (
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 933 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1720 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_recordset_sql()
+* line 126 of /blocks/sms/sms_form.php: call to moodle_database->record_exists_sql()
+* line 67 of /blocks/sms/view.php: call to sms_send->display_report()
+
+[04-Jul-2014 04:50:55 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 115
+[04-Jul-2014 04:51:10 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 156
+[04-Jul-2014 04:51:10 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 04:51:10 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:51:10 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 04:51:10 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 04:51:19 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 156
+[04-Jul-2014 04:51:19 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:51:19 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:51:19 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:51:19 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:51:19 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 144
+[04-Jul-2014 04:51:28 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 156
+[04-Jul-2014 04:51:28 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:51:28 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:51:28 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:51:28 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:51:28 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 144
+[04-Jul-2014 04:51:56 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 154
+[04-Jul-2014 04:51:56 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 04:51:56 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:51:56 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 04:51:56 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 106
+[04-Jul-2014 04:52:01 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 154
+[04-Jul-2014 04:52:01 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:52:01 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:01 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:01 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:10 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 154
+[04-Jul-2014 04:52:10 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:52:18 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 154
+[04-Jul-2014 04:52:18 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:52:18 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:18 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:18 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:24 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 154
+[04-Jul-2014 04:52:24 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:52:24 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:24 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:24 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:33 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 154
+[04-Jul-2014 04:52:34 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 99
+[04-Jul-2014 04:52:34 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:34 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 04:52:34 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 133
+[04-Jul-2014 05:20:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 05:21:24 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 164
+[04-Jul-2014 05:21:24 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 05:21:24 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 93
+[04-Jul-2014 05:21:36 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 162
+[04-Jul-2014 05:21:36 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 05:21:36 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 05:21:50 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 162
+[04-Jul-2014 05:21:50 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 05:21:50 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 94
+[04-Jul-2014 05:23:22 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:23:22 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 05:23:22 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 05:25:00 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:25:00 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 05:25:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 95
+[04-Jul-2014 05:25:27 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:25:27 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 05:25:27 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:25:27 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 115
+[04-Jul-2014 05:25:27 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 115
+[04-Jul-2014 05:25:47 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:25:47 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 05:25:47 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:25:47 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 115
+[04-Jul-2014 05:25:47 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 115
+[04-Jul-2014 05:25:54 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:25:54 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:25:54 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:25:54 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:25:54 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:25:59 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:25:59 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:25:59 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:25:59 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:25:59 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:06 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:26:06 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:26:06 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:06 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:06 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:12 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:26:12 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:26:12 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:12 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:12 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:29 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:26:29 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 05:26:29 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:26:29 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 115
+[04-Jul-2014 05:26:29 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 115
+[04-Jul-2014 05:26:35 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:26:35 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:26:41 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:26:41 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:26:41 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:41 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:41 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:45 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:26:45 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:26:45 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:45 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:45 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:50 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:26:50 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:26:50 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:50 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:50 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:26:55 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:26:55 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:27:00 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:27:01 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:27:11 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:27:11 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 05:27:11 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:27:11 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:27:11 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 142
+[04-Jul-2014 05:27:16 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 163
+[04-Jul-2014 05:27:16 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 108
+[04-Jul-2014 06:30:32 UTC] PHP Parse error:  syntax error, unexpected T_CASE, expecting ':' or '{' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 89
+[04-Jul-2014 06:31:07 UTC] PHP Parse error:  syntax error, unexpected T_CASE, expecting ':' or '{' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 89
+[04-Jul-2014 06:31:09 UTC] PHP Parse error:  syntax error, unexpected T_CASE, expecting ':' or '{' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 89
+[04-Jul-2014 06:31:09 UTC] PHP Parse error:  syntax error, unexpected T_CASE, expecting ':' or '{' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 89
+[04-Jul-2014 06:31:09 UTC] PHP Parse error:  syntax error, unexpected T_CASE, expecting ':' or '{' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 89
+[04-Jul-2014 06:31:09 UTC] PHP Parse error:  syntax error, unexpected T_CASE, expecting ':' or '{' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 89
+[04-Jul-2014 06:31:09 UTC] PHP Parse error:  syntax error, unexpected T_CASE, expecting ':' or '{' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 89
+[04-Jul-2014 06:31:09 UTC] PHP Parse error:  syntax error, unexpected T_CASE, expecting ':' or '{' in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 89
+[04-Jul-2014 06:31:29 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 112
+[04-Jul-2014 06:31:29 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 112
+[04-Jul-2014 06:31:56 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 180
+[04-Jul-2014 06:31:56 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 111
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 111
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 111
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 111
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 111
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 111
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 111
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 111
+[04-Jul-2014 06:31:56 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 125
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 06:31:56 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 06:33:01 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 180
+[04-Jul-2014 06:33:01 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 06:33:01 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 125
+[04-Jul-2014 06:33:01 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 06:33:01 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 132
+[04-Jul-2014 06:34:31 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 182
+[04-Jul-2014 06:34:31 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 06:34:31 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 115
+[04-Jul-2014 06:35:33 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 184
+[04-Jul-2014 06:35:33 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 06:35:33 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 117
+[04-Jul-2014 06:36:16 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 184
+[04-Jul-2014 06:36:16 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 06:36:16 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 117
+[04-Jul-2014 06:40:27 UTC] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 107
+[04-Jul-2014 06:40:27 UTC] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 107
+[04-Jul-2014 06:43:24 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 183
+[04-Jul-2014 06:43:24 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 06:43:24 UTC] PHP Fatal error:  Call to undefined function lok() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 116
+[04-Jul-2014 06:43:39 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 182
+[04-Jul-2014 06:43:39 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 06:43:39 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 06:43:39 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 06:43:39 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 06:43:52 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 182
+[04-Jul-2014 06:43:52 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 06:43:52 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
+[04-Jul-2014 06:43:52 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
+[04-Jul-2014 06:43:52 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
+[04-Jul-2014 06:43:55 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 182
+[04-Jul-2014 06:43:55 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 06:44:00 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 182
+[04-Jul-2014 06:44:00 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 06:44:00 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
+[04-Jul-2014 06:44:00 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
+[04-Jul-2014 06:44:00 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
+[04-Jul-2014 06:44:26 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 182
+[04-Jul-2014 06:44:26 UTC] PHP Notice:  Undefined variable: haskype in /home/ssaedu/public_html/moodleTest/moodle/theme/essential/layout/includes/header.php on line 146
+[04-Jul-2014 06:44:26 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 06:44:26 UTC] PHP Warning:  Missing argument 1 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 06:44:26 UTC] PHP Warning:  Missing argument 2 for sms_send::display_report(), called in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/view.php on line 67 and defined in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 134
+[04-Jul-2014 06:44:31 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 182
+[04-Jul-2014 06:44:31 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 06:44:36 UTC] PHP Strict Standards:  Declaration of template_form::validation() should be compatible with that of moodleform::validation() in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 182
+[04-Jul-2014 06:44:36 UTC] PHP Notice:  Undefined variable: errors in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 127
+[04-Jul-2014 06:44:36 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
+[04-Jul-2014 06:44:36 UTC] PHP Notice:  Undefined variable: page in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
+[04-Jul-2014 06:44:36 UTC] PHP Notice:  Undefined variable: perpage in /home/ssaedu/public_html/moodleTest/moodle/blocks/sms/sms_form.php on line 161
